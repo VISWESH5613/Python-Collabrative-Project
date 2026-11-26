@@ -1,0 +1,14 @@
+room_id,block,floor,room_type,capacity,equipment_count
+A-101,Block A,1,Lecture Hall,150,0
+A-102,Block A,1,Classroom,75,0
+A-201,Block A,2,Classroom,75,0
+A-301,Block A,3,Tutorial Room,40,0
+B-101,Block B,1,Lecture Hall,150,0
+B-201,Block B,2,Classroom,75,0
+B-202,Block B,2,Tutorial Room,40,0
+C-101,Block C,1,Classroom,75,0
+C-301,Block C,3,Tutorial Room,45,0
+L-101,Lab Block,1,CS Lab,70,70
+L-102,Lab Block,1,CS Lab,70,68
+L-201,Lab Block,2,Physics Lab,65,65
+L-301,Lab Block,3,Electronics Lab,65,60

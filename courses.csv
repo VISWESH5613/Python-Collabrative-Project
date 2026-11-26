@@ -1,0 +1,9 @@
+course_code,course_name,session_type,duration_hrs,weekly_sessions,req_equipment,faculty_id
+2026CSAE100,Computational Thinking,Lecture,1,2,None,FAC01
+2026CSAE100L,Computational Thinking Lab,Lab,2,1,CS Lab,FAC01
+2026PHYS101,Engineering Physics,Lecture,1,2,None,FAC02
+2026PHYS101L,Engineering Physics Lab,Lab,2,1,Physics Lab,FAC02
+2026MATH102,Linear Algebra & Calculus,Lecture,1,2,None,FAC03
+2026MATH102T,Linear Algebra Tutorial,Tutorial,1,1,None,FAC03
+2026ELEC105,Digital Electronics,Lecture,1,2,None,FAC04
+2026ELEC105L,Digital Electronics Lab,Lab,2,1,Electronics Lab,FAC04
